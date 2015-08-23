@@ -13,6 +13,8 @@ CodeBook.md - Describes the steps taken by the project's R Script to create a ti
 
 run_analysis.R - The project R script that completes the steps of transforming the raw data into a tidy data set. 
 
+tidy_data.txt - Tidy data output for reference.
+
 *The output of the tidy data set has been attached to the Coursera Course project submission site on August 23, 2015.
 
 ## run_analysis.R
