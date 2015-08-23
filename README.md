@@ -8,7 +8,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## Contents
 
 README.md - This file. Provides a high level overview of this repo and the purpose and components of this project.
+
 CodeBook.md - Describes the steps taken by the project's R Script to create a tidy data set from the raw data. 
+
 run_analysis.R - The project R script that completes the steps of transforming the raw data into a tidy data set. 
 
 *The output of the tidy data set has been attached to the Coursera Course project submission site on August 23, 2015.
